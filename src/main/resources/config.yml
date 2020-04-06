@@ -1,0 +1,9 @@
+#
+# Main configuration for TNTRun
+#
+
+# How long should the game last for (minutes)
+game_time: 2
+
+# Every X seconds, players will receive random effects
+seconds: 20

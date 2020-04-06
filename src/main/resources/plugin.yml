@@ -1,0 +1,9 @@
+name: TNTRun
+version: ${project.version}
+main: me.focusvity.tntrun.TNTRun
+authors: [Focusvity]
+description: A plugin to test my skills
+commands:
+  start:
+    description: Start TNT game
+    usage: /<command>
